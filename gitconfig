@@ -59,3 +59,9 @@
 
 [init]
   defaultBranch = master
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = julianavendano.j@gmail.com
+	name = juan avendano
